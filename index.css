@@ -106,8 +106,8 @@ header {
     font-weight: 300;
   }
   .about-part {
-    height: 300px;
-    width: 800px;
+    height: 40vh;
+    width: 60vw;
   }
   .skills{
     height: 20vh;
