@@ -137,7 +137,7 @@ h3 {
 
 .parent { 
   display: flex;
-  column-gap: 100px;
+  column-gap: 5vw;
 } 
 
 .checked {
